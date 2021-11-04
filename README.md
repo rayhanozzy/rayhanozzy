@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, ML, and AI
 - 🌱 I’m currently learning Plotly and TensorFlow
 - 💞️ I’m looking to collaborate on innovative projects
-- 📫 How to reach me: Follow me on Instagram and LinkedIn
+- 📫 How to reach me: Follow me on [Instagram](https://www.instagram.com/rayhan_ozzy) and [LinkedIn](https://www.linkedin.com/in/rayhanozzy/)
 - ⚡ Fun fact: I love to learn foreign languages (French, Dutch, and German) and addicted to The Adventures of Tintin
 
 <!---
