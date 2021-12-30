@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Plotly, TensorFlow, and Statistical Learning
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me: Follow me on [Instagram](https://www.instagram.com/rayhan_ozzy) and [LinkedIn](https://www.linkedin.com/in/rayhanozzy/)
-- ⚡ Fun fact: I love to learn foreign languages (French, Dutch, and German) and addicted to The Adventures of Tintin
+- ⚡ Fun fact: I love to learn foreign languages (French, Dutch, and German) and addicted to [The Adventures of Tintin](https://en.m.wikipedia.org/wiki/The_Adventures_of_Tintin)
 
 <!---
 rayhanozzy/rayhanozzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
