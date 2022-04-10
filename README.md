@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rayhanozzy who aspired to become Data Scientist :bar_chart::man_scientist:
-- 👀 I’m interested in Data Science, Machine Learning, and Artificial Intelligence
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, and Artificial Intelligence
 - 🌱 I’m currently learning Forecasting
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me: Follow me on [Instagram](https://www.instagram.com/rayhan_ozzy) and [LinkedIn](https://www.linkedin.com/in/rayhanozzy/)
