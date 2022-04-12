@@ -9,8 +9,9 @@
 - 💞️ I’m looking to collaborate on innovative projects
 - ⚡ Fun fact: I love to learn foreign languages (French, Dutch, and German) and addicted to [The Adventures of Tintin](https://en.m.wikipedia.org/wiki/The_Adventures_of_Tintin)
 
-[![Rayhan Ozzy Ertarto's github stats](https://github-readme-stats.vercel.app/api?username=rayhanozzy&theme=blue-green)](https://github.com/rayhanozzy/github-readme-stats)
+[![Rayhan Ozzy Ertarto's github stats](https://github-readme-stats.vercel.app/api?username=rayhanozzy&theme=blue-white)](https://github.com/rayhanozzy/github-readme-stats)
 
+[![Rayhan Ozzy Ertarto's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanozzy&theme=blue-white)](https://github.com/rayhanozzy/github-readme-stats)
 
 <!---
 rayhanozzy/rayhanozzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
