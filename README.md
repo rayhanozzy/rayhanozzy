@@ -1,5 +1,5 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rayhanozzy.medium.com/) 	
-[![Me](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](httpa://rayhanozzy.github.io/Data-Science-Portfolio/) 	
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayhanozzy/)
 
 
