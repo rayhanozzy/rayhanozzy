@@ -6,7 +6,7 @@
 
 - 👋 Bonjour, Goedendag, Guten Tag! I’m @rayhanozzy who aspired to become Data Scientist :bar_chart::man_scientist:
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning, and Artificial Intelligence
-- 🌱 I’m currently learning Computer Vision
+- 🌱 I’m currently learning Computer Vision and Internet of Things (IoT)
 - 💞️ I’m looking to collaborate on innovative projects
 - ⚡ Fun fact: I love to learn foreign languages (French, Dutch, and German) and addicted to [The Adventures of Tintin](https://en.m.wikipedia.org/wiki/The_Adventures_of_Tintin)
 
