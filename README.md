@@ -1,6 +1,6 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@rayhanozzy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayhanozzy/)
-[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayhan_ozzy/)
+[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rayhanozzye/)
 [![Gmail](https://img.shields.io/badge/GMail-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayhanozzy@gmail.com)
 
 
