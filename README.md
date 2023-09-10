@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/GMail-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayhanozzy@gmail.com)
 
 
-- 👋 Bonjour, Goedendag, Guten Tag! I’m @rayhanozzy who aspired to become Data Scientist :bar_chart::man_scientist:
+- 👋 Hey y'all! I’m @rayhanozzy who aspired to become Data Scientist :bar_chart::man_scientist:
 - 👀 I’m interested in Data Science, Machine Learning, Deep Learning, and Artificial Intelligence
 - 🌱 I’m currently learning Natural Language Processing (NLP)
 - 💞️ I’m looking to collaborate on innovative projects
